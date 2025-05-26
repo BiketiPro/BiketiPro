@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Full Stack Developer specializing in **Angular, Laravel, Flutter, Firebase, and Python**  
+- 🎓 Full Stack Developer specializing in **Angular, Laravel, Flutter, Firebase, and Javascript**  
 - 🎨 Designer skilled in **Canva & Figma** for UI/UX and graphics design  
 - 🔥 Passionate about building **web & mobile applications** with clean UI/UX  
 - 💡 Currently working on **Expense Tracker App** – a smart financial tracking app  
