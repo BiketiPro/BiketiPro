@@ -1,7 +1,5 @@
 <!-- Header Image -->
-<p align="center">
-  <img src="[https://files.oaiusercontent.com/file-8oaK64fGxBeXYXTDBUxQm1?se=2025-03-25T07%3A27%3A39Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da77f1010-4b26-42ea-99ba-92894af55103.webp&sig=FmDmRdpcuUTBD7LNWmelC9S38U7nVKUnTwBXLipGwyw%3D](https://images.unsplash.com/photo-1604964432806-254d07c11f32?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Banner" width="100%" />
-</p>
+
 
 
 <h1 align="center">Hi there, I'm Teddy Biketi 👋</h1>
